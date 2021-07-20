@@ -11,13 +11,10 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="codeSTACKr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=RobertRen1122&show_icons=true&hide_border=true" />
-
-</details>
+### My Github Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=RobertRen1122&show_icons=true&theme=gotham" alt="Robert' Github Stats" />
 
 [linkedin]: https://www.linkedin.com/in/robert-ren/
