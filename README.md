@@ -2,7 +2,7 @@
 
 ## I'm an EngSci 2T4 at the University of Toronto
 
-- 🌱 I’m currently learning everything 😤
+- 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other people
 - 🥅 2021 Goals: Contribute more to machine learning projects
 
@@ -31,10 +31,10 @@
 ---
 
 ### My Github Stats
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/RobertRen1122">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertRen1122&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
 </a>
-<a href="https://github.com/MartinHeinz/MartinHeinz">
+<a href="https://github.com/RobertRen1122">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobertRen1122&theme=dracula&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
 </a>
 
