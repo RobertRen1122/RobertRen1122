@@ -8,9 +8,23 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Robert | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
+
+### Tools
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/react.svg" />
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/django.svg" />
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/java.svg" />
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/c.svg" />
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/cplusplus.svg" />
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/python.svg" />
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/javascript.svg" />
+<img align="left" alt="react | react" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+
+
+<br />
+
 
 ---
 
