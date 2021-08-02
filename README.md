@@ -31,11 +31,7 @@
 ---
 
 ### My Github Stats
-<a href="https://github.com/RobertRen1122">
-  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
-</a>
-<a href="https://github.com/RobertRen1122">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobertRen1122&theme=dracula&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
-</a>
+![Github stats](https://github-readme-stats.vercel.app/api?username=Robertren1122&theme=gruvbox&show_icons=true&count_private=true)
+
 
 [linkedin]: https://www.linkedin.com/in/robert-ren/
