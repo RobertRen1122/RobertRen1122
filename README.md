@@ -32,7 +32,7 @@
 
 ### My Github Stats
 <a href="https://github.com/RobertRen1122">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RobertRen1122&hide=java,cs,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
+  <iframe width="600" height="600" src="https://ionicabizau.github.io/github-profile-languages/api.html?rjoydip" frameborder="0"></iframe>
 </a>
 <a href="https://github.com/RobertRen1122">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=RobertRen1122&theme=dracula&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="My GitHub Stats" />
