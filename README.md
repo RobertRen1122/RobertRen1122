@@ -32,7 +32,7 @@
 ---
 
 ### My Github Stats
-![Github stats](https://github-readme-stats.vercel.app/api?username=LindaWang7&theme=gruvbox&show_icons=true&count_private=true)
+![Github stats](https://github-readme-stats.vercel.app/api?username=RobertRen1122&theme=gruvbox&show_icons=true&count_private=true)
 
 
 [linkedin]: https://www.linkedin.com/in/robert-ren/
