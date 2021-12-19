@@ -18,11 +18,8 @@
 ![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-PyCharm-informational?style=flat&logo=pycharm&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=cplusplus&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Code-C-informational?style=flat&logo=c&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
 
 
