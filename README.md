@@ -29,6 +29,7 @@
 ---
 
 ### My Github Stats
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 ![Github stats](https://github-readme-stats.vercel.app/api?username=RobertRen1122&theme=gruvbox&show_icons=true&count_private=true)
 
 
