@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning ML/DL
 - 💯 I have passed the Tensorflow Certification Exam in August, 2021
-- 👯 I’m looking to collaborate with other people
+- 👯 I’m looking to work on projects related to Robotics and Machine Learning
 - 🥅 2022 Goals: Contribute more to machine learning projects
 
 ### Connect with me:
